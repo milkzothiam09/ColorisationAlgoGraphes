@@ -80,3 +80,4 @@ nx.draw(G, pos,
 
 plt.title(f"Coloration exacte par Backtracking (k = {k})")
 plt.show()
+
